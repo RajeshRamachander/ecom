@@ -1,9 +1,12 @@
 What are the 5 most common Job Titles?
 How many people have English 'en' as a choice to transact on the website?
-What are the 5 most common Job Titles?
 What are the top 5 most popular email providers?
 What are the top five states that buy
 What are the top five credit card companies?
 Job designation (Value count: top 10) vs purchase amount
  Bi-variate (Browser + Job) vs purchases
-
+What is the most spending Job Type
+List of expired cards and their mail ids
+Traffic by browser and time
+Spending patterns of credit cards
+Spending patterns by location (and time)
