@@ -1,12 +1,35 @@
-What are the 5 most common Job Titles?
-How many people have English 'en' as a choice to transact on the website?
-What are the top 5 most popular email providers?
-What are the top five states that buy
-What are the top five credit card companies?
-Job designation (Value count: top 10) vs purchase amount
- Bi-variate (Browser + Job) vs purchases
-What is the most spending Job Type
-List of expired cards and their mail ids
-Traffic by browser and time
-Spending patterns of credit cards
-Spending patterns by location (and time)
+
+
+Selected
+
+Yashaswi
+
+1. Job designation (Value count: top 10) vs purchase amount  ---- *
+2. Bi-variate (Browser + Job) vs purchases. ----    *
+3. Spending patterns by location (and time). - question 4  ---- *
+
+Ranjit
+4. How does purchase value depend on ‘CC' provider and time of purchase ‘AM or PM’? Question 2.  ----  *
+5. What are top 5 of job, credit, states, email, language ?   --- *
+
+
+
+
+
+Question Bank
+
+1. What are the 5 most common Job Titles? +
+2. How many people have English 'en' as a choice to transact on the website? -
+3. What are the top 5 most popular email providers? +
+4. What are the top five states that buy +
+5. What are the top five credit card companies? +
+6. Job designation (Value count: top 10) vs purchase amount  ---- *
+7. Bi-variate (Browser + Job) vs purchases. ----    *
+8. What is the most spending Job Type.        -
+9. List of expired cards and their mail ids.  -
+10. Bivariate Traffic by browser and time. -
+11. Spending patterns of credit cards. - question 5  -
+12. Spending patterns by location (and time). - question 4  ---- *
+13. How does purchase value depend on ‘Language’ and time of purchase ‘AM or PM’? Question 2.  ----  *14. How does purchase value depend on ‘CC Provider’?         Question 5. -15. How does purchase value depend on the Internet Browser used?  Question 10 -
+16. What are top 5 of job, credit, states, email, language ?   --- *
+17. Frequency of customers
